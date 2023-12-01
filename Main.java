@@ -39,7 +39,6 @@ public class Main {
                 System.out.println("[*] Dinero en cuenta: " + client.getAccountMoney());
                 System.out.println("[*] Dinero en efectivo: " + client.getMoney());
             }
-            scanner.close();
         } while(true);
     
     }
